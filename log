@@ -1,1 +1,11 @@
 
+sá., 12 de mar. de 2022 23:16:29: 
+ exercises.c | 34 ++++++++++++++++++++++++++--------
+ 1 file changed, 26 insertions(+), 8 deletions(-)
+In file included from test.c:5:0:
+exercises.c: In function 'sumaV2':
+exercises.c:129:1: error: expected ';' before '}' token
+ }
+ ^
+Compilation failed
+1677153
